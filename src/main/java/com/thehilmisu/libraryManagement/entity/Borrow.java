@@ -1,5 +1,5 @@
 // Borrow.java
-package com.thehilmisu.demo.entity;
+package com.thehilmisu.libraryManagement.entity;
 
 import jakarta.persistence.*;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;

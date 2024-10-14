@@ -1,8 +1,8 @@
 // BorrowController.java
-package com.thehilmisu.demo.controller;
+package com.thehilmisu.libraryManagement.controller;
 
-import com.thehilmisu.demo.entity.Borrow;
-import com.thehilmisu.demo.service.BorrowService;
+import com.thehilmisu.libraryManagement.entity.Borrow;
+import com.thehilmisu.libraryManagement.service.BorrowService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 import java.util.List;

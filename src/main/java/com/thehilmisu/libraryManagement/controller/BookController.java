@@ -1,8 +1,8 @@
 // BookController.java
-package com.thehilmisu.demo.controller;
+package com.thehilmisu.libraryManagement.controller;
 
-import com.thehilmisu.demo.entity.Book;
-import com.thehilmisu.demo.service.BookService;
+import com.thehilmisu.libraryManagement.entity.Book;
+import com.thehilmisu.libraryManagement.service.BookService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
