@@ -1,12 +1,12 @@
 // BorrowService.java
-package com.thehilmisu.demo.service;
+package com.thehilmisu.libraryManagement.service;
 
-import com.thehilmisu.demo.entity.Borrow;
-import com.thehilmisu.demo.entity.Book;
-import com.thehilmisu.demo.entity.User;
-import com.thehilmisu.demo.repository.BorrowRepository;
-import com.thehilmisu.demo.repository.BookRepository;
-import com.thehilmisu.demo.repository.UserRepository;
+import com.thehilmisu.libraryManagement.entity.Borrow;
+import com.thehilmisu.libraryManagement.entity.Book;
+import com.thehilmisu.libraryManagement.entity.User;
+import com.thehilmisu.libraryManagement.repository.BorrowRepository;
+import com.thehilmisu.libraryManagement.repository.BookRepository;
+import com.thehilmisu.libraryManagement.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.time.LocalDate;

@@ -1,6 +1,6 @@
-package com.thehilmisu.demo.repository;
+package com.thehilmisu.libraryManagement.repository;
 
-import com.thehilmisu.demo.entity.Borrow;
+import com.thehilmisu.libraryManagement.entity.Borrow;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
 
